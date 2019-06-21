@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\bin\Debug\netcoreapp2.2\TPRedesServidor.deps.json
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\bin\Debug\netcoreapp2.2\TPRedesServidor.runtimeconfig.json
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\bin\Debug\netcoreapp2.2\TPRedesServidor.runtimeconfig.dev.json
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\bin\Debug\netcoreapp2.2\TPRedesServidor.dll
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\bin\Debug\netcoreapp2.2\TPRedesServidor.pdb
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\obj\Debug\netcoreapp2.2\TPRedesServidor.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\obj\Debug\netcoreapp2.2\TPRedesServidor.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\obj\Debug\netcoreapp2.2\TPRedesServidor.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\obj\Debug\netcoreapp2.2\TPRedesServidor.AssemblyInfo.cs
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\obj\Debug\netcoreapp2.2\TPRedesServidor.dll
+C:\Users\maria\source\repos\TPRedesServidor\TPRedesServidor\obj\Debug\netcoreapp2.2\TPRedesServidor.pdb
